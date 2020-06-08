@@ -1,0 +1,17 @@
+.Coin {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 50%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Coin p {
+    font-size: 2em;
+    font-family: SansSerif;
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
